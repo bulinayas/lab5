@@ -1,0 +1,5 @@
+all:
+	g++ main_trap_1.cpp -o main_trap_1
+	
+run:
+	./main_trap_1
