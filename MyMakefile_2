@@ -1,0 +1,5 @@
+all:
+	g++ main_sims_2.cpp -o main_sims_2
+	
+run:
+	./main_sims_2
